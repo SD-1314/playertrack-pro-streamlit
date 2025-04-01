@@ -1,6 +1,7 @@
-pymupdf
-pytesseract
 streamlit
+pytesseract
+pymupdf
+pdf2image
 pillow
 matplotlib
 pandas
